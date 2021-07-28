@@ -24,4 +24,4 @@ The connector supports the following operations:
 Register for a free API key at https://www.farsightsecurity.com/solutions/dnsdb/ .
 
 ## Support and documentation: 
-For all the support requests and general queries you can contact support@farsightsecurity.com or [contact us](https://www.farsightsecurity.com/about-farsight-security/contacts/",)
+For all the support requests and general queries you can contact support@farsightsecurity.com or [contact us](https://www.farsightsecurity.com/about-farsight-security/contacts/")
