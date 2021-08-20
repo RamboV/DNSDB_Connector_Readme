@@ -12,11 +12,17 @@ You will need the following to proceed:
 The connector supports the following operations:
 * `RRSet Lookup`: The “rrset” lookup queries DNSDB’s RRset index, which supports “forward” lookups based on the owner name of an RRset.
 
+* `RRSet Lookup with RRType`: The “rrset” lookup queries DNSDB’s RRset index, which supports “forward” lookups based on the owner name of an RRset.
+
+* `RRSet Lookup with RRType and Bailiwick`: The “rrset” lookup queries DNSDB’s RRset index, which supports “forward” lookups based on the owner name of an RRset.
+
 * `RData Lookup`: The “rdata” lookup queries DNSDB’s Rdata index, which supports “inverse” lookups based on Rdata record values.
 
-* `Flex Search`: Flexible Search adds both Regular Expressions and Globbing support to the DNSDB API to expand the types of search queries and add more control to searches.
+* `RData Lookup with RRType`: The “rdata” lookup queries DNSDB’s Rdata index, which supports “inverse” lookups based on Rdata record values.
 
-* `Rate Limit`: Retrieve service limits
+* `Flexible Search`: Flexible Search adds both Regular Expressions and Globbing support to the DNSDB API to expand the types of search queries and add more control to searches.
+
+* `Service Limits`: Retrieve service limits
 
 ## Access Your API Key
 Register for a free API key at https://www.farsightsecurity.com/solutions/dnsdb/ .
