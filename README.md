@@ -24,6 +24,8 @@ The connector supports the following operations:
 
 * `Service Limits`: Retrieve service limits
 
+* `Ping`: This request is for end to end connectivity tests to the DNSDB API endpoint, letting you know that there are no firewall blockages. This request does not require an API key. It returns just a JSON object {“ping”: “ok”}.
+
 ## Access Your API Key
 Register for a free API key at https://www.farsightsecurity.com/solutions/dnsdb/ .
 
