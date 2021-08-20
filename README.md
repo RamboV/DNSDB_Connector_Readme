@@ -1,8 +1,6 @@
 # Farsight DNSDB Connector
 
-Increase Incident Response Speed and Accuracy with Farsight Security DNSDB®.
-
-Farsight Security DNSDB® is the world’s largest DNS intelligence database that provides a unique, fact-based, multifaceted view of the configuration of the global Internet infrastructure. DNSDB leverages the richness of Farsight’s Security Information Exchange (SIE) data-sharing platform and is engineered and operated by leading DNS experts. Farsight collects Passive DNS data from its global sensor array. It then filters and verifies the DNS transactions before inserting them into the DNSDB, along with ICANN-sponsored zone file access download data.
+Farsight Security DNSDB® is the world’s largest DNS intelligence database that provides a fact-based view of the configuration of the global Internet infrastructure. DNSDB leverages Farsight’s Security Information Exchange (SIE) data-sharing platform and is engineered and operated by leading DNS experts. Farsight collects, filters, and verifies Passive DNS data from its global sensor array. DNSDB is the highest-quality and most comprehensive DNS intelligence data service of its kind.
 
 ## Pre-requisites
 You will need the following to proceed:
